@@ -1,3 +1,7 @@
+# ignore pending commit files
+/spec
+/test
+
 # Logs
 logs
 *.log
@@ -8,8 +12,8 @@ pids
 *.seed
 
 # Generated files
-dist/*
-build/*
+#dist/*
+#build/*
 
 # Test Output Folder
 out/*
